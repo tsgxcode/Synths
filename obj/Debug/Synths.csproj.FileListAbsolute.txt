@@ -1,0 +1,7 @@
+C:\Users\ScottAC\source\repos\Synths\Synths\bin\Debug\Synths.exe.config
+C:\Users\ScottAC\source\repos\Synths\Synths\bin\Debug\Synths.exe
+C:\Users\ScottAC\source\repos\Synths\Synths\bin\Debug\Synths.pdb
+C:\Users\ScottAC\source\repos\Synths\Synths\obj\Debug\Synths.csprojAssemblyReference.cache
+C:\Users\ScottAC\source\repos\Synths\Synths\obj\Debug\Synths.csproj.CoreCompileInputs.cache
+C:\Users\ScottAC\source\repos\Synths\Synths\obj\Debug\Synths.exe
+C:\Users\ScottAC\source\repos\Synths\Synths\obj\Debug\Synths.pdb
